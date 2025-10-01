@@ -1,4 +1,4 @@
-![testing](Images/Messenger_creation_2320820828338399.jpeg)
+![testing](src/Messenger_creation_2320820828338399.jpeg)
 # được dựa trên luật gr của đối tác 
 
 Ngụy Huyết Linh là 1 group gacha có hệ thống website riêng, được host bởi đối tác group hệ thống lĩnh vực,level, nhiệm vụ hàng ngày, giấy khen và các hoạt động khác.
@@ -57,11 +57,11 @@ note:kh dc hashtag quá 10 lần=kick
  note:cày dc lv bấy nhiêu set lv ở biệt danh bấy nhiêu 
 
 # Nếu như bạn phạm vi các luật trên, bạn sẽ bị các mức độ sau đây 
-| lần 1: nhắc nhở thân thương+tạm dừng làm nhiệm vụ  ![hài vl](Images/received_1477822670037586.jpeg)                                                |
+| lần 1: nhắc nhở thân thương+tạm dừng làm nhiệm vụ  ![hài vl](src/received_1477822670037586.jpeg)                                                |
 |--------------------------------------------------------------------------|
-| Lần 2: trừ 1 nửa level+xuống the backroom 1 ngày ![testing](Images/Messenger_creation_676146122152391.jpeg) |
+| Lần 2: trừ 1 nửa level+xuống the backroom 1 ngày ![testing](src/Messenger_creation_676146122152391.jpeg) |
 | Lần 3: ra đảo 2 ngày ![testing](https://i.imgur.com/DFpeu.jpg)           |
-| Lần 4: trục xuất ![balo](Images/Messenger_creation_1281565777050706.jpeg)                                    |
+| Lần 4: trục xuất ![balo](src/Messenger_creation_1281565777050706.jpeg)                                    |
 
 ---------------------------------------
 
